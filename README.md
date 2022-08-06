@@ -15,6 +15,6 @@ Kada se svi fajlovi prebace u željenu lokaciju kao što je u mom slučaju htdoc
 
 # Prijava i odjava
 -Login: http://localhost/web/login.php
-Nakon što unesemo tačnu lozinku i korisničko ime i ako je pritisnuto dugme submit,pozivamo stranicu http://localhost/web/root.php Podatke saljemo POST metodom.
+Nakon što unesemo tačnu lozinku i korisničko ime i ako je pritisnuto dugme submit,pozivamo stranicu http://localhost/web/root.php Podatke šaljemo POST metodom.
 Ispisaće nam predmete koje student može da sluša na datom smjeru.
 Klikom na dugme Odjava vraćamo se na Login: http://localhost/web/login.php
