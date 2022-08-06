@@ -1,0 +1,11 @@
+Zadatak
+
+1.Pomoću PHPa realizovati mini aplikaciju koja omogućava studentu sljedeće opcije: logovanje na sistem, nakon toga prikaz svih predmeta koje može da sluša (može da sluša samo predmete koji su sa istog smjera kao i student). U okviru informacija o studentu potrebno je definisati i upisani smjer. Takođe za svaki predmet definisati smjer na kome se predaje. Potrebno je u okviru aplikacije napisati i PHP kod koji pravi potrebnu bazu podataka, formira potrebne tabele i popunjava ih inicijalnim podacima.
+
+1.Konekcija (connect.php)
+2.Kreiranje baze (create.php)
+3.Kreiranje tabela (table.php)
+4.Ubacivanje podataka u tabelu (insert.php)
+5.Prijava (login.php)
+6.Prikaz (root.php)
+7.Odjava (logout.php)
