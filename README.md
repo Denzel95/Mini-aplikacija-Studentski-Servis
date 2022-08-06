@@ -13,7 +13,7 @@ Kada se svi fajlovi prebace u željenu lokaciju kao što je u mom slučaju htdoc
 -Tabele: http://localhost/web/table.php
 -Unos podataka: http://localhost/web/insert.php
 
-#Prijava i odjava
+# Prijava i odjava
 -Login: http://localhost/web/login.php
 Nakon što unesemo tačnu lozinku i korisničko ime i ako je pritisnuto dugme submit,pozivamo stranicu http://localhost/web/root.php Podatke saljemo POST metodom.
 Ispisaće nam predmete koje student može da sluša na datom smjeru.
